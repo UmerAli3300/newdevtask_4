@@ -3,7 +3,7 @@
 ##  Objective
 Predict credit card default and optimize approval threshold to minimize business cost.
 
-## 🛠 Approach
+##  Approach
 - Used UCI Credit Card Default dataset (30K clients).
 - Trained CatBoost classifier (handles imbalanced data well).
 - Defined FP cost ($200) and FN cost ($5000).
